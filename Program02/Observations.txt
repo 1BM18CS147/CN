@@ -1,8 +1,0 @@
-Observation for CN lab 02 class:
-
-1)What is a router
-2)How to build a Router Topology with simple PDU.
-3)How to configure end devices and the router.
-4)What is a Ping message.
-5)How a Ping message is sent.
-6)Simulation of the Router Topology.
